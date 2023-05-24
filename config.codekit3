@@ -978,6 +978,14 @@
       "oA" : 0,
       "oAP" : "\/site.webmanifest",
       "oF" : 0
+    },
+    "\/thank-you.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/thank-you.html",
+      "oF" : 0
     }
   },
   "hooks" : [

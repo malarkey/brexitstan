@@ -529,6 +529,22 @@ border-bottom-width: 0; }
 
 /* =IMG */
 
+figure {
+margin: 0;
+padding: 0; }
+
+figure a,
+figure a:visited {
+display: block;
+font-size: var(--font-size-default);
+text-decoration: none;
+color: var(--color-text-default); }
+
+figcaption {
+text-align: center; }
+
+
+
 img {
 border-width: 0;
 content-visibility: auto;
