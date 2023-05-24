@@ -979,6 +979,14 @@
       "oAP" : "\/site.webmanifest",
       "oF" : 0
     },
+    "\/thank-you.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/thank-you.html",
+      "oF" : 0
+    },
     "\/thank-you.kit" : {
       "cB" : 0,
       "ft" : 2048,
