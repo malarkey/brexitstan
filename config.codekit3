@@ -443,6 +443,19 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/img\/blue-1.png" : {
+      "ft" : 32768,
+      "iS" : 618601,
+      "oA" : 0,
+      "oAP" : "\/img\/blue-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/img\/blue-1.webp" : {
       "ft" : 8388608,
       "iS" : 35208,
@@ -454,6 +467,19 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/img\/blue-2.png" : {
+      "ft" : 32768,
+      "iS" : 600185,
+      "oA" : 0,
+      "oAP" : "\/img\/blue-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/img\/blue-2.webp" : {
       "ft" : 8388608,
       "iS" : 31640,
@@ -463,6 +489,19 @@
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/img\/blue-3.png" : {
+      "ft" : 32768,
+      "iS" : 591543,
+      "oA" : 0,
+      "oAP" : "\/img\/blue-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
       "rq" : 75
     },
     "\/img\/blue-3.webp" : {
@@ -630,6 +669,19 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/img\/logo.png" : {
+      "ft" : 32768,
+      "iS" : 11314,
+      "oA" : 0,
+      "oAP" : "\/img\/logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/img\/logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -639,6 +691,19 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/img\/red-1.png" : {
+      "ft" : 32768,
+      "iS" : 686329,
+      "oA" : 0,
+      "oAP" : "\/img\/red-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
     },
     "\/img\/red-1.webp" : {
       "ft" : 8388608,
@@ -651,6 +716,19 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/img\/red-2.png" : {
+      "ft" : 32768,
+      "iS" : 683126,
+      "oA" : 0,
+      "oAP" : "\/img\/red-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/img\/red-2.webp" : {
       "ft" : 8388608,
       "iS" : 26982,
@@ -660,6 +738,19 @@
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/img\/red-3.png" : {
+      "ft" : 32768,
+      "iS" : 462930,
+      "oA" : 0,
+      "oAP" : "\/img\/red-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
       "rq" : 75
     },
     "\/img\/red-3.webp" : {
@@ -704,6 +795,19 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/img\/white-1.png" : {
+      "ft" : 32768,
+      "iS" : 604982,
+      "oA" : 0,
+      "oAP" : "\/img\/white-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/img\/white-1.webp" : {
       "ft" : 8388608,
       "iS" : 35102,
@@ -715,6 +819,19 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/img\/white-2.png" : {
+      "ft" : 32768,
+      "iS" : 581600,
+      "oA" : 0,
+      "oAP" : "\/img\/white-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/img\/white-2.webp" : {
       "ft" : 8388608,
       "iS" : 31800,
@@ -724,6 +841,19 @@
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/img\/white-3.png" : {
+      "ft" : 32768,
+      "iS" : 485825,
+      "oA" : 0,
+      "oAP" : "\/img\/white-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
       "rq" : 75
     },
     "\/img\/white-3.webp" : {
